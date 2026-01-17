@@ -14,7 +14,7 @@
   
   💻 Skills:
 - Languages: C++, Python ,Javascript 
-- Cloud: Docker, Linux , kuberneteics
+- Cloud: Docker, Linux , kubernetes
 - Tools: Git, GitHub, CI/CD (basic)
 
   📫 Reach me at:
